@@ -1,0 +1,1 @@
+For this assignment, you will add a FAQ (Frequently Asked Questions) page to your retail application. The FAQ page will include and display six questions with answers to customers. We will add a link to the FAQ page, a view, and an action method to the Home Controller. We will also demonstrate using session state in this lab.
