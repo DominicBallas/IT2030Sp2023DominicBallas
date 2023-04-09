@@ -1,0 +1,1 @@
+For this assignment, you will add additional data validation to the ContactModel and the ProductModel. We will also add an Events page that gives customers a list of events that you retail store is sponsoring. Start with your completed working Week 9 lab files.
